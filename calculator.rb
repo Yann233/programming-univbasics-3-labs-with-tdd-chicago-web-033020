@@ -17,5 +17,5 @@ def multiplying(first_number,second_number)
   end
 
 def dividing(first_number,second_number)
-  puts "#{first_number}/#{second_number}=#{product}"
+  puts "#{first_number}/#{second_number}=#{quotient}"
   end# Add your variables here
